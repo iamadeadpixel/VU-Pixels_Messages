@@ -1,0 +1,9 @@
+{
+	"Name": "Player Messages",
+	"Authors": ["Flash_Hit, iamadeadpixel"],
+	"Description": "Send a chat message each time on a special event",
+	"Reason": "init setup", 
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}

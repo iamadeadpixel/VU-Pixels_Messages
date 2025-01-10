@@ -1,0 +1,6 @@
+ require('__shared/config')
+ require('__shared/global')
+ require('__shared/servermessages')
+ require('__shared/tables')
+ require('__shared/Suicide')
+ require('__shared/GadgetKills')
